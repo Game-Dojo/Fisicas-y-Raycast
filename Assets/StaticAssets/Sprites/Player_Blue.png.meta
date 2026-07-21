@@ -450,7 +450,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_10
+      name: Run_Gun_Up_1
       rect:
         serializedVersion: 2
         x: 741
@@ -472,7 +472,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_11
+      name: Run_Gun_Up_2
       rect:
         serializedVersion: 2
         x: 815
@@ -494,7 +494,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_12
+      name: Run_Gun_Up_3
       rect:
         serializedVersion: 2
         x: 894
@@ -516,7 +516,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_13
+      name: Run_Gun_Up_4
       rect:
         serializedVersion: 2
         x: 963
@@ -538,10 +538,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_14
+      name: Run_Gun_Up_5
       rect:
         serializedVersion: 2
-        x: 1028
+        x: 1027
         y: 10
         width: 41
         height: 42
@@ -560,7 +560,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_15
+      name: Run_Gun_Up_6
       rect:
         serializedVersion: 2
         x: 1102
@@ -582,7 +582,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_16
+      name: Run_Gun_Up_7
       rect:
         serializedVersion: 2
         x: 1182
@@ -604,7 +604,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_17
+      name: Run_Gun_Up_8
       rect:
         serializedVersion: 2
         x: 1251
@@ -626,7 +626,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_18
+      name: Run_Gun_Down_1
       rect:
         serializedVersion: 2
         x: 1318
@@ -648,7 +648,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_19
+      name: Run_Gun_Down_2
       rect:
         serializedVersion: 2
         x: 1392
@@ -670,7 +670,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_20
+      name: Run_Gun_Down_3
       rect:
         serializedVersion: 2
         x: 1470
@@ -692,7 +692,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_21
+      name: Run_Gun_Down_4
       rect:
         serializedVersion: 2
         x: 1539
@@ -714,7 +714,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_22
+      name: Run_Gun_Down_5
       rect:
         serializedVersion: 2
         x: 1605
@@ -736,7 +736,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_23
+      name: Run_Gun_Down_6
       rect:
         serializedVersion: 2
         x: 1677
@@ -758,7 +758,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_24
+      name: Run_Gun_Down_7
       rect:
         serializedVersion: 2
         x: 1758
@@ -780,7 +780,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_25
+      name: Run_Gun_Down_8
       rect:
         serializedVersion: 2
         x: 1828
@@ -978,7 +978,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_34
+      name: Death_1
       rect:
         serializedVersion: 2
         x: 2481
@@ -1000,7 +1000,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_35
+      name: Death_2
       rect:
         serializedVersion: 2
         x: 2546
@@ -1022,7 +1022,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_36
+      name: Death_3
       rect:
         serializedVersion: 2
         x: 2613
@@ -1044,7 +1044,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_37
+      name: Death_4
       rect:
         serializedVersion: 2
         x: 2684
@@ -1066,7 +1066,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_38
+      name: Death_5
       rect:
         serializedVersion: 2
         x: 2756
@@ -1088,7 +1088,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_39
+      name: Death_6
       rect:
         serializedVersion: 2
         x: 2828
@@ -1126,6 +1126,12 @@ TextureImporter:
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":72.0,"y":72.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Cover: 1108436875
+      Death_1: -1361647384
+      Death_2: -25778989
+      Death_3: 1812452343
+      Death_4: 1612297560
+      Death_5: -1245757073
+      Death_6: -655257882
       Idle: 270525804
       Jump_1: 1905299040
       Jump_2: -871525291
@@ -1135,28 +1141,6 @@ TextureImporter:
       Jump_6: 365866180
       Jump_7: 1898389904
       Jump_8: -1537343914
-      Player_Blue_10: 1693624099
-      Player_Blue_11: -591109219
-      Player_Blue_12: 1273842248
-      Player_Blue_13: -820171735
-      Player_Blue_14: 699121668
-      Player_Blue_15: -1299843977
-      Player_Blue_16: -927155320
-      Player_Blue_17: -582489479
-      Player_Blue_18: 1194022474
-      Player_Blue_19: 318788407
-      Player_Blue_20: -1777416483
-      Player_Blue_21: 1684321845
-      Player_Blue_22: -273128411
-      Player_Blue_23: -1493005572
-      Player_Blue_24: 459826069
-      Player_Blue_25: 1524790118
-      Player_Blue_34: -1361647384
-      Player_Blue_35: -25778989
-      Player_Blue_36: 1812452343
-      Player_Blue_37: 1612297560
-      Player_Blue_38: -1245757073
-      Player_Blue_39: -655257882
       Run_1: 284631967
       Run_2: -68649446
       Run_3: 533784045
@@ -1165,6 +1149,23 @@ TextureImporter:
       Run_6: 1690895806
       Run_7: 586620317
       Run_8: 1797040122
+      Run_Gun_Down_1: 1194022474
+      Run_Gun_Down_2: 318788407
+      Run_Gun_Down_3: -1777416483
+      Run_Gun_Down_4: 1684321845
+      Run_Gun_Down_5: -273128411
+      Run_Gun_Down_6: -1493005572
+      Run_Gun_Down_7: 459826069
+      Run_Gun_Down_8: 1524790118
+      Run_Gun_Up_1: 1693624099
+      Run_Gun_Up_2: -591109219
+      Run_Gun_Up_3: 1273842248
+      Run_Gun_Up_4: -820171735
+      Run_Gun_Up_5: 699121668
+      Run_Gun_Up_6: -1299843977
+      Run_Gun_Up_7: -927155320
+      Run_Gun_Up_8: -582489479
+      c: 1194022474
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
