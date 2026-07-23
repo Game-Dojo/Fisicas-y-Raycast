@@ -14374,6 +14374,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 489723317453913112, guid: ac813f51e36a078429d0268558c94171, type: 3}
+      propertyPath: groundMask.m_Bits
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1107255206828706010, guid: ac813f51e36a078429d0268558c94171, type: 3}
       propertyPath: m_Name
       value: Player
@@ -14417,6 +14421,14 @@ PrefabInstance:
     - target: {fileID: 5197744086603529447, guid: ac813f51e36a078429d0268558c94171, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7833736133183617096, guid: ac813f51e36a078429d0268558c94171, type: 3}
+      propertyPath: m_Positions.Array.data[1].x
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 8771907253646090854, guid: ac813f51e36a078429d0268558c94171, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
